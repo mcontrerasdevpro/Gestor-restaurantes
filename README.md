@@ -7,10 +7,10 @@ Web para un restaurante con carta digital, menú del día y reserva de mesa onli
 ## Qué hace
 
 - **Inicio:** portada con la imagen y el estilo del local
-- **Carta:** platos por categorías, con foto y precio
+- **Carta:** platos por categorías, con descripción y precio
 - **Menú del día:** selección con carrito flotante que suma el total, para reservar el menú por adelantado
 - **Reservas:** formulario por pasos con fecha, hora, número de personas y datos de contacto
-- **Contacto:** dirección y formas de contacto
+- **Contacto:** datos del local con mapa integrado
 
 ## Stack
 
